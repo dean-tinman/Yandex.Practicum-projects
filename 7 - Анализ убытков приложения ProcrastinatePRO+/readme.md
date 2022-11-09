@@ -34,9 +34,9 @@
 # Использованные библиотеки:
 - pandas
 - numpy
--matplotlib
--seaborn
--scipy
+- matplotlib
+- seaborn
+- scipy
 
 **Проведен анализ данных от ProcrastinatePRO+.
 Рассчитаны различные метрики, использован когортный анализ: LTV, CAC, Retention rate, DAU, WAU, MAU и т.д. Использованы уже написанные ранее функции расчёта метрик. Сделаны выводы по полученным данным.**
